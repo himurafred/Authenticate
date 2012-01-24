@@ -1,0 +1,5 @@
+self: play -> Authenticate 0.1
+
+require:
+    - play
+    - play -> secure
